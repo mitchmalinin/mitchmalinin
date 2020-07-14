@@ -1,4 +1,4 @@
-### Hey there, I'm Mitch and I like Web Development 👋
+### Hey, I'm Mitch and I like Web Development 👋
 
 - 🔭  I currently work at Hedge as the lead frontend developer!
 - 🌱  I’m also currently learning all things React
