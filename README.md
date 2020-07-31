@@ -1,6 +1,6 @@
 ### Hey, I'm Mitch and I like Web Development :computer:
 
-- :rocket:   I currently work at Hedge, Inc. as the lead frontend developer
+- :rocket:   I currently work at Hedge, Inc. as the VP of Engineering 
 - :atom:   I’m also currently learning all things React
 - 💬   Ask me about anything!
 - :envelope:   How to reach me: mitchmalinin@gmail.com
