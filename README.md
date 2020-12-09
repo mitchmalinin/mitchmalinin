@@ -1,8 +1,7 @@
 ### Hey, I'm Mitch and I like Web Development :computer:
 
 - :rocket:   I currently work at Hedge, Inc. as the VP of Engineering 
-- :atom:   I’m also currently learning all things React
+- :atom:   React > overthing else
 - 💬   Ask me about anything!
 - :envelope:   How to reach me: mitchmalinin@gmail.com
-- :palm_tree:  Fun fact: I recently moved to Boca Raton, FL from Philadelphia, PA 
 
