@@ -1,4 +1,4 @@
-### Hey, I'm Mitch and I like Web Development :computer:
+### Hey, I'm Mitch and I'm part of the digital revolution :computer:
 
 - :briefcase: Frontend Developer at Blockchain.com
 - :atom:   Big fan of React.js
